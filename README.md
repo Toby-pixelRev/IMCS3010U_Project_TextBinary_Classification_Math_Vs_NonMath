@@ -1,5 +1,11 @@
 # **IMCS3010U Project: Textual/Binary Classification of Math Vs. Non-Math Textual Content**
 
+## **Table of Contents**
+- [***Project Information***](#project-information)
+- [***Getting Started***](#getting-started)
+- [***Project Testing Results***](#project-testing-results)
+- [***Author(s)***](#authors)
+
 ## **Project Information**
 
 ### **Overview**
