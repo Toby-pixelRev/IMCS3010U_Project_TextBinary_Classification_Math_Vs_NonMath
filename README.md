@@ -73,4 +73,4 @@ realm of machine-learning and artificial intelligence (AI).
 ## **Author(s)**
 - **Tobenna Nnaobi**
 
-Copyright &copy; 2025. All Rights Reserved
+**Copyright &copy; 2025. All Rights Reserved.**
